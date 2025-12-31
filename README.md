@@ -1,6 +1,7 @@
 # FoundIt
 
 **FoundIt** is a lost-and-found app designed specifically for Hunter College students and staff. It provides a simple platform to report lost and found items, helping users quickly recover their belongings without relying on posters or word-of-mouth.
+This is a final project me and 3 other students did for capstone.
 
 ---
 
@@ -80,4 +81,5 @@ npm install
 - Setup Google Authentication.
 
 # 4. Run the app
+
 npm start
